@@ -1,8 +1,8 @@
-Raw VMap 3.0 is the third version of the Wheat Genetic Variation Map (VMap). It included 1196 hexaploid wheat (AABBDD genome), 212 tetraploid wheat (AABB genome), and 220 Ae. tauschii (DD genome).									
+VMap 3.0 is the raw version of the Wheat Genetic Variation Map 3 (VMap 3). It included 1196 hexaploid wheat (AABBDD genome), 212 tetraploid wheat (AABB genome), and 220 Ae. tauschii (DD genome).									
 											
-Raw VMap 3.0 was built using reference IWGSC RefSeq v1.0, Aligner bwa (Version: 0.7.17-r1188) and caller FastCall 2 (TIGER_v1.0.3.jar). 
+VMap 3.0 is built using reference IWGSC RefSeq v1.0, Aligner bwa (Version: 0.7.17-r1188) and caller FastCall 2 (TIGER_v1.0.3.jar). 
 
-Raw VMap 3.0 included biallelic and triallelic SNPs and Indels. A total of 875,151,958 variants in Raw VMap 3.0.			
+It includes a total of 875,151,958 variants both biallelic and triallelic SNPs and Indels		
 											
 Contact											
 yf.guo@genetics.ac.cn (Yafei Guo); songxycc@gmail.com (Xinyue Song); flu@genetics.ac.cn (Fei Lu)					
