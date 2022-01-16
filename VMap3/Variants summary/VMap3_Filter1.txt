@@ -1,6 +1,8 @@
-VMap 3.1 is the filtered variation dataset of the Wheat Genetic Variation Map 3 (VMap 3). It included 1196 hexaploid wheat (AABBDD genome), 212 tetraploid wheat (AABB genome), and 220 Ae. tauschii (DD genome).									
+VMap 3.1 includs 1196 hexaploid wheat (AABBDD genome), 212 tetraploid wheat (AABB genome), and 220 Ae. tauschii (DD genome).
 											
-VMap 3.1 is filtered by 80% reliable site library, heterozygosity < 0.05, missing rate < 0.2 and biallelic state. VMap 3.1 have a total of 357,231,897 variants including both biallelic SNPs and Indels.			
+VMap 3.1 is filtered by 80% reliable site library, heterozygosity < 0.05, missing rate < 0.2 and biallelic state from VMap 3.0. 
+
+VMap 3.1 have a total of 357,231,897 variants including both biallelic SNPs and Indels.			
 											
 Contact											
 yf.guo@genetics.ac.cn (Yafei Guo); songxycc@gmail.com (Xinyue Song); flu@genetics.ac.cn (Fei Lu)					
