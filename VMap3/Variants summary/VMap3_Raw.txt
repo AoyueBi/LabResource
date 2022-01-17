@@ -1,4 +1,4 @@
-VMap 3.0 is the raw version of the Wheat Genetic Variation Map 3 (VMap 3). 									
+VMap 3.0 is the third raw version of the whole-genome genetic variation map of wheats (VMap). 									
 											
 VMap 3.0 is built using reference IWGSC RefSeq v1.0, Aligner bwa (Version: 0.7.17-r1188) and caller FastCall 2 (TIGER_v1.0.3.jar). 
 
