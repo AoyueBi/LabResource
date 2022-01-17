@@ -1,7 +1,7 @@
-VMap 3.1 includs 1196 hexaploid wheat (AABBDD genome), 212 tetraploid wheat (AABB genome), and 220 Ae. tauschii (DD genome).
-											
 VMap 3.1 is filtered by 80% reliable site library, heterozygosity < 0.05, missing rate < 0.2 and biallelic state from VMap 3.0. 
 
+VMap 3.1 includs 1196 hexaploid wheat (AABBDD genome), 212 tetraploid wheat (AABB genome), and 220 Ae. tauschii (DD genome).
+											
 VMap 3.1 have a total of 357,231,897 variants including both biallelic SNPs and Indels.			
 											
 Contact											
